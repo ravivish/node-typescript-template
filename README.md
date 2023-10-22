@@ -1,1 +1,1 @@
-# template
+## Node Typescript starter template
