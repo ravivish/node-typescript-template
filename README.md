@@ -1,7 +1,5 @@
 ## Node Typescript starter template
 
-## setup instructions
-
 ## typescript initialization for new setup
 tsc --init 
 
