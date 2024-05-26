@@ -14,6 +14,6 @@ npm init
 
 *npm start* --to start the node server
 
-<b>No need to commit js files they compile from typescript using command *tsc*</b>
+<b>No need to commit js files as they will be compiled from typescript using command *tsc*</b>
 
 <b>for typescript package use @types/npm-package for example use "@types/express" instead of "express" in npm</b>
