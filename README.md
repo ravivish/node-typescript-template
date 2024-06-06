@@ -1,7 +1,7 @@
 ## Node Typescript starter template
 
 ## typescript global installation
-npm install -g typescrit
+npm install -g typescript
 
 ## typescript initialization for new setup
 tsc --init 
